@@ -1,19 +1,17 @@
-# Deep-Learning-Projects
+# Handwritten Digit Recognition
 
-## (1) Handwritten Digit Recognition
-
-### Overview
+## Overview
 
 This repository contains a Python project for recognizing handwritten digits using machine learning. The primary objective is to develop a model capable of accurately classifying digits from images.
 
-### Libraries Used
+## Libraries Used
 
 - **Scikit-Learn**: For machine learning algorithms and tools.
 - **NumPy and Pandas**: For data manipulation and analysis.
 - **Matplotlib and Seaborn**: For data visualization.
 - **TensorFlow and Keras**: For building and training neural networks.
 
-### Features
+## Features
 - Import necessary libraries and mnist dataset from it.
 - Split the dataset into train and test.
 - Normalize the splited datasets.
